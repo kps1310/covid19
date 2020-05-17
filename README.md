@@ -1,3 +1,5 @@
+#### Covid19 Statistics Tracker
+# This is a tracker react app that shows the statistics of the total no. of cases(.i.e Infected,Recovered,Deaths) due to the COVID19.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
